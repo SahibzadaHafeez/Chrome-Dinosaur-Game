@@ -1,0 +1,15 @@
+	      INSTRUCTIONS
+
+
+  	  Press 'SPACE' to jump
+
+  Do your best to avoid all obstacles
+
+      Try to beat your high score
+
+   Press 'ENTER' to start playing now
+
+	Press 'BACKSPACE' to exit
+
+
+	      Good Luck :D					
